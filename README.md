@@ -22,11 +22,10 @@ APB-SPI-Master-IP-Core/
 │   └── spi_slave_control_select.v
 ├── VERIFICATION/
 │   ├── interface/
-│   ├── sequences/
-│   ├── agent/
-│   ├── scoreboard/
-│   ├── environment/
-│   └── tests/
+│   ├── apb_agent/
+│   ├── spi_agent/
+│   ├── tb/
+│   ├── test/
 ├── Simulation/
 ├── README.md
 └── LICENSE
